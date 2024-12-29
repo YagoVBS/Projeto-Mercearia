@@ -27,21 +27,14 @@ Este é um sistema desenvolvido em **Python**, utilizando o padrão arquitetural
 ## 📂 Estrutura do Projeto
 
 ```plaintext
-├── models/
-│   ├── produto.py
-│   ├── cliente.py
-│   └── fornecedor.py
-├── views/
-│   └── main_view.py
-├── controllers/
-│   ├── produto_controller.py
-│   ├── cliente_controller.py
-│   └── fornecedor_controller.py
-├── tests/
-│   ├── test_produto.py
-│   └── test_cliente.py
-├── data/
-│   ├── produtos.txt
-│   ├── clientes.txt
-│   └── fornecedores.txt
+├── core/
+│   ├── controllers.py
+│   ├── models.py
+│   ├── views.py
+|   └── DAO.py
+├── categorias.txt
+├── clientes.txt
+├── estoque.txt
+├── fornecedores.txt
+└── vendas.txt
 └── README.md
