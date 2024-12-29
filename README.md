@@ -36,5 +36,5 @@ Este é um sistema desenvolvido em **Python**, utilizando o padrão arquitetural
 ├── clientes.txt
 ├── estoque.txt
 ├── fornecedores.txt
-└── vendas.txt
+├── vendas.txt
 └── README.md
