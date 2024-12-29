@@ -1,6 +1,6 @@
-# Sistema de Gestão para Mercearias 🛒
+# Sistema de Gestão para Pequenas Mercearias 🛒
 
-Este é um sistema desenvolvido em **Python**, utilizando o padrão arquitetural **MVC** (Model-View-Controller), com foco no gerenciamento de mercearias. Ele é totalmente acessível via terminal e foi projetado para consolidar conceitos fundamentais de **POO** e boas práticas de programação.
+Este é um sistema desenvolvido para uma pequena mercearia em **Python**, utilizando o padrão arquitetural **MVC** (Model-View-Controller), com foco no gerenciamento de mercearias. Ele é totalmente acessível via terminal e foi projetado para consolidar conceitos fundamentais de **POO** e boas práticas de programação.
 
 ---
 
